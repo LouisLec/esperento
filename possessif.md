@@ -1,4 +1,6 @@
-### Les possessifs
+# Possessifs
+
+## Les possessifs
 
 Les possessifs sont des mots comme « mon » ou « vos » en français. Ils sont complètement réguliers en espéranto. Il suffit d'ajouter un *-a* au pronom pour en faire un adjectif possessif.
 
@@ -21,7 +23,7 @@ Tout comme les adjectifs qui se terminent par *-a*, les adjectifs possessifs pe
 - _Viaj ursoj trinkas mian bieron._\
   Vos ours boivent ma bière.
 
-### De
+## De
 
 Pour indiquer la possession, on utilise la préposition *de*. Cela correspond aussi au mot « de » du français.
 
@@ -36,7 +38,7 @@ Pour indiquer la possession, on utilise la préposition *de*. Cela correspond a
 
 Remarque : dans cette dernière phrase, le pronom personnel (_li_) est en général traduit en français par la tournure impersonnelle « c'est ».
 
-### Kio, tio
+## Kio, tio
 
 - Kio = quoi ? que ?
 
@@ -53,7 +55,7 @@ Remarque : dans cette dernière phrase, le pronom personnel (_li_) est en gén�
 - _Ni manĝas tion._\
   Nous mangeons ça.
 
-### Les noms et les adresses
+## Les noms et les adresses
 
 Pour demander à quelqu'un son nom ou son adresse, il est possible de poser la question des deux manières suivantes (avec *kio* ou *kiu*) :
 
@@ -62,7 +64,7 @@ Pour demander à quelqu'un son nom ou son adresse, il est possible de poser la q
 - _Kiu estas via [nomo / adreso]?_\
   Quel est ton nom ? / Quelle est ton adresse ?
 
-### Amiko, Amikino
+## Amiko, Amikino
 
 Notez que *amiko* et *amikino* est « ami » ou « amie » pour une relation amicale.
 
