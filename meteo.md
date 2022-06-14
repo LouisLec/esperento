@@ -1,4 +1,6 @@
-### Les verbes impersonnels
+# Meteo
+
+## Les verbes impersonnels
 
 En espéranto, on n'utilise pas de pronom pour les verbes impersonnels, *pluvas* ou *neĝas*, et le pronom « il » ne se traduit pas dans ces cas.
 
@@ -8,7 +10,7 @@ De même, l'expression « c'est » se traduit simplement par *estas* :
 
 - *Estas* varma tago. = C'est une journée chaude.
 
-### Ĉu
+## Ĉu
 
 *Ĉu* permet de poser une question dont la réponse sera oui ou non. *Ĉu* est l'équivalent de « est-ce que ». Comme en français, on garde le même ordre sujet -- verbe dans la question et l'affirmation.
 
@@ -21,14 +23,14 @@ De même, l'expression « c'est » se traduit simplement par *estas* :
 
 En espéranto, les questions doivent toujours commencer par un mot interrogatif, par exemple *ĉu* (est-ce que), *kiu* (qui, lequel), *kiel* (comment) et d'autres mots que vous apprendrez plus tard. Vous ne pouvez pas poser une question juste en inversant l'ordre des mots ou en terminant simplement par un point d'interrogation.
 
-### Expressions avec Ĉu
+## Expressions avec Ĉu
 
 - *Ĉu?* = Vraiment ?
 
 - *Ĉu ne?* = N'est-ce pas ?
 - *Vi laboras, ĉu ne?* = Tu travailles, n'est-ce pas ? (ou : Vous travaillez, n'est-ce pas ?)
 
-### Les adjectifs
+## Les adjectifs
 
 Les adjectifs sont des mots qui complètent un nom. Rappelez-vous qu'un nom commun se termine toujours par *-o* en espéranto. En espéranto, les adjectifs se terminent par *-a* :
 
@@ -39,7 +41,7 @@ En espéranto, l'adjectif peut être placé avant ou après le nom auquel il se 
 
 *Varma tago* et *tago varma* signifient tous les deux «une journée chaude» et sont tous les deux corrects. Mais dans la pratique, on met plutôt l'adjectif avant le nom, et on dit alors *varma tago*.
 
-### Le préfixe mal-
+## Le préfixe mal-
 
 *mal-* est un préfixe signifiant «le contraire de».
 
@@ -51,7 +53,7 @@ Attention ! Notez bien que mal- n'a pas le sens de «mauvais» ou «mal» comm
 - *lumo* = lumière → *mallumo* = obscurité
 - *bona* = bon → *malbona* = mauvais
 
-### Pas d'article indéfini en espéranto
+## Pas d'article indéfini en espéranto
 
 Il n'y a pas d'article indéfini en espéranto.
 
