@@ -1,4 +1,6 @@
-### La terminaison de l'accusatif : -n
+# L'accusatif
+
+## La terminaison de l'accusatif : -n
 
 Observez par exemple cette phrase : « La femme embrasse le petit garçon. »
 
@@ -39,7 +41,7 @@ Attention : dans une phrase telle que *Li estas knabo.* (C'est un garçon), «
 
 Il en est de même pour les verbes : paraître, sembler, devenir, rester. Il n'y a pas d'accusatif avec ces verbes.
 
-### L'accusatif pluriel
+## L'accusatif pluriel
 
 Quand un mot à l'accusatif est au pluriel, la terminaison *-n* de l'accusatif est placée après la terminaison *-j* du pluriel.
 
@@ -49,7 +51,7 @@ Quand un mot à l'accusatif est au pluriel, la terminaison *-n* de l'accusatif
 - _Mi vidas la belajn pomojn._\
   Je vois les belles pommes.
 
-### Les pronoms
+## Les pronoms
 
 Les pronoms, tout comme les noms, peuvent aussi prendre la terminaison *-n* de l'accusatif. Notez qu'en français, nous avons aussi des pronoms différents selon qu'il sont employés comme sujet ou comme complément d'objet.
 
@@ -65,7 +67,7 @@ Les pronoms, tout comme les noms, peuvent aussi prendre la terminaison *-n* de
 
 Le pronom *ĝi* est utilisé pour les choses, les animaux, les bébés ou les enfants.
 
-### Pourquoi beaucoup d'expressions courantes se terminent-elles par -n ?
+## Pourquoi beaucoup d'expressions courantes se terminent-elles par -n ?
 
 Quand en français, on dit « merci », cela est une façon abrégée de dire « je vous remercie ».
 
@@ -75,7 +77,7 @@ En espéranto, c'est un peu la même chose : lorsqu'on dit *dankon* (merci), 
 - *Saluton!* = Bonjour !
 - *Feliĉan novan jaron!* = Bonne année ! (littéralement, cela signifie « Bonne nouvelle année », mais en français, on dit plus couramment simplement « Bonne année »)
 
-### Les prépositions
+## Les prépositions
 
 Les noms qui suivent une préposition se terminent normalement par un simple *-o* (ou *-oj* au pluriel). D'autres terminaisons seront expliquées plus tard dans le cours.
 
@@ -85,7 +87,7 @@ Les noms qui suivent une préposition se terminent normalement par un simple *-
 - _Ni iras al la parko._\
   Nous allons au parc.
 
-### Omission de l'article défini
+## Omission de l'article défini
 
 En français, on peut employer l'article défini pour parler d'une espèce, d'une chose en général. Mais dans ce cas, on n'emploie pas l'article en espéranto.
 
