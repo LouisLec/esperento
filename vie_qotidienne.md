@@ -1,4 +1,6 @@
-### Estas
+# Vie quotidenne
+
+## Estas
 
 *Estas* est le présent du verbe *esti* (être). On peut donc traduire *estas* (être, au présent) par « suis, es, est, sommes, êtes, sont ».
 
@@ -18,7 +20,7 @@
 
 Attention : Ne dites pas *ĝi estas varma nokto* (il n'y a pas besoin d'ajouter le pronom *ĝi* dans ce type de phrase).
 
-### Les adverbes
+## Les adverbes
 
 Les adverbes (qui, en français, se terminent souvent par *-ement*) sont des mots invariables qui apportent une précision sur le sens d'un verbe, d'un adjectif, d'un autre adverbe ou d'une phrase.
 
