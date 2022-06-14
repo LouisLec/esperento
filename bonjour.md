@@ -1,16 +1,18 @@
-### Expressions courantes en -n
+# Bonjour !
+
+## Expressions courantes en -n
 
 Beaucoup d'expressions courantes se terminent par *-n*
 
 C'est le cas pour les remerciements, les félicitations, les souhaits, etc. Cette terminaison est celle de l'accusatif, que nous aborderons un peu plus tard dans le cours. Exemple : saluton (bonjour), dankon (merci)
 
-### Interrogatifs
+## Interrogatifs
 
 *Kiu?* permet d'interroger sur l'identité d'une personne, d'un animal ou d'une chose. On peut souvent le traduire par « qui » pour une personne.
 
 *Kiel?* permet d'interroger sur la manière. On peut souvent le traduire par « comment, de quelle façon ? »
 
-### Les noms de personnes en espéranto
+## Les noms de personnes en espéranto
 
 Les espérantophones utilisent souvent leurs noms tels quels, mais parfois ils préfèrent utiliser un nom plus facile à prononcer en espéranto, ou un diminutif en espéranto.
 
