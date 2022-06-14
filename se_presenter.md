@@ -1,4 +1,6 @@
-### Quelques règles de base de l'espéranto
+# Se présenter
+
+## Quelques règles de base de l'espéranto
 
 Chaque lettre représente un son et chaque son est représenté par une lettre. Par exemple : *longa* se prononce *lo-nn-ga*, et dans *hundo* le *h* se prononce aussi comme un *h* aspiré *h-u-nn-do*.
 
@@ -29,13 +31,13 @@ Il n'y a pas d'article indéfini (un, une) en espéranto.
 - *aktoro* = acteur, *aktorino* = actrice
 - *kato* = chat, *katino* = chatte
 
-### L'alphabet de l'espéranto
+## L'alphabet de l'espéranto
 
 L'alphabet de l'espéranto comporte 28 lettres : on retrouve des lettres utilisées en français. Il n'y a pas les lettres Q, W, X et Y, les lettres accentuées ou avec une cédille.
 
 En plus de ces lettres, l'espéranto utilise quelques lettres accentuées qui lui sont propres. Pour épeler un mot, les voyelles se prononcent par le son qu'elles font, et les consonnes se prononcent en y ajoutant un *-o* : *S* = So ; *T* = To ; *V* = Vo.
 
-### Les voyelles sont faciles à prononcer pour un francophone. Voici :
+## Les voyelles sont faciles à prononcer pour un francophone. Voici :
 
 | espéranto | équivalent en français |
 | :-------- | :--------------------- |
@@ -45,7 +47,7 @@ En plus de ces lettres, l'espéranto utilise quelques lettres accentuées qui lu
 | _o_       | o                      |
 | _u_       | ou                     |
 
-### Les lettres C, G, J , S et H
+## Les lettres C, G, J , S et H
 
 | espéranto | exemple          | équivalent en français                                                                                                          |
 | :-------- | :--------------- | :------------------------------------------------------------------------------------------------------------------------------ |
@@ -55,7 +57,7 @@ En plus de ces lettres, l'espéranto utilise quelques lettres accentuées qui lu
 | _s_       | _taso_           | toujours ss comme dans tasse (jamais comme un z)                                                                                |
 | _h_       | _ha lo_          | la combinaison ha se prononce comme quand on rit : ha !, ha !, ha ! Pareil pour *ho* : ho !,ho !,ho ! et *hi* : hi !,hi !, hi ! |
 
-### Voici 5 lettres accentuées spécifiques à l'espéranto.
+## Voici 5 lettres accentuées spécifiques à l'espéranto.
 
 | espéranto | exemple | équivalent en français  |
 | :-------- | :------ | :---------------------- |
@@ -65,11 +67,11 @@ En plus de ces lettres, l'espéranto utilise quelques lettres accentuées qui lu
 | _ŝ_       | _ŝi_    | ch, comme dans chat     |
 | _ŭ_       | _aŭ_    | w comme dans watt       |
 
-### Le clavier espéranto
+## Le clavier espéranto
 
 Pour taper facilement en espéranto en utilisant les lettres accentuées, vous pouvez installer une nouvelle configuration de clavier. Vous trouverez sur cette page les instructions vous permettant d'installer un clavier espéranto sur votre ordinateur, votre tablette ou votre téléphone : [Comment écrire en espéranto.](https://ikurso.esperanto-france.org/helpo.php?section=kielskribi)
 
-### Que faire pour suivre le cours sans installer le clavier espéranto ?
+## Que faire pour suivre le cours sans installer le clavier espéranto ?
 
 Duolingo reconnaît le système en *-x* : c'est une méthode alternative permettant de saisir les lettres accentuées de l'espéranto. Il suffit de taper un x après la lettre que vous souhaitez accentuer.
 
