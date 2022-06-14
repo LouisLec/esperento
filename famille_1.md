@@ -1,4 +1,6 @@
-### Le pluriel
+# Famille (1)
+
+## Le pluriel
 
 En français, on marque en général le pluriel des noms en ajoutant un -s à la fin du mot, ou, pour certains noms, un x. En espéranto, il n'y a aucune exception : on marque le pluriel en ajoutant un *-j* à la fin des noms. On utilise aussi le *-j* pour marquer le pluriel des adjectifs.
 
@@ -20,11 +22,11 @@ En français, on marque en général le pluriel des noms en ajoutant un -s à 
 
 Notez que l'article *la* est le même au singulier et au pluriel. N'ajoutez jamais *j* à l'article.
 
-#### La prononciation
+### La prononciation
 
 *-oj* se prononce oille (comme dans «oyez») et *-aj* se prononce ail (comme dans « paille »)
 
-### Les nombres
+## Les nombres
 
 | espéranto | français |
 | --------- | -------- |
@@ -37,7 +39,7 @@ Les nombres cardinaux (un, deux, trois, etc.) sont invariables :
 
 - *Ni estas du virinoj.* Nous sommes deux femmes.
 
-### Le suffixe -ej
+## Le suffixe -ej
 
 *-ej* est un suffixe indiquant un lieu :
 
@@ -45,7 +47,7 @@ Les nombres cardinaux (un, deux, trois, etc.) sont invariables :
 - *laboro* = travail → *laborejo* = lieu de travail, atelier
 - *loĝi* = habiter → *loĝejo* = lieu où on habite (logement, habitation, etc.)
 
-### Jen
+## Jen
 
 *Jen* peut se traduire par « voici » ou « voilà » :
 
