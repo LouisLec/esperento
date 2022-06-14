@@ -1,4 +1,6 @@
-### Les noms de langues
+# Langue (1)
+
+## Les noms de langues
 
 En espéranto, pour parler du français, ou de l'anglais (les langues), on utilise l'expression *la franca lingvo* (= la langue française), ou *la angla lingvo* (la langue anglaise). Mais on emploie couramment une expression raccourcie sans le mot *lingvo*. Il est donc fréquent de dire *la franca* pour « le français » ou *la angla* pour dire « l'anglais ».
 
@@ -10,7 +12,7 @@ En espéranto, pour parler du français, ou de l'anglais (les langues), on utili
 
 Mais pour l'espéranto, on dit simplement Esperanto, sans article. Notez qu'en espéranto qu'on met toujours une majuscule au nom de la langue espéranto.
 
-### On
+## On
 
 *Oni* est l'équivalent du pronom indéfini « on » en français.
 
@@ -24,7 +26,7 @@ Attention : En français on emploie souvent « on » pour dire « nous », 
   On parle espéranto à la maison.\
   L'espéranto est parlé à la maison.
 
-### Ke
+## Ke
 
 Les propositions subordonnées sont souvent introduites par *ke* (que).
 
@@ -32,7 +34,7 @@ Les propositions subordonnées sont souvent introduites par *ke* (que).
 
 Remarquez qu'il y a toujours une virgule avant le *ke*.
 
-### Nek ... nek ...
+## Nek ... nek ...
 
 *Nek* signifie « ni » comme dans :
 
